@@ -7,6 +7,11 @@ A simple visualisation style for model architectures (implemented for HF models,
 - relative parameter size comparision within model at log scale
 - represents model layers / operation in order visually
 
+
+![image](https://github.com/user-attachments/assets/6eed874d-940b-4278-a8a1-f2e2b443c9c8)
+
+
+
 ## method
 
 1. **Clean Layer Names**  
