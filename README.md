@@ -52,8 +52,19 @@ A simple visualisation style for model architectures (implemented for HF models,
 <img src="https://github.com/user-attachments/assets/e1d7f1cc-8470-4675-8d0d-88ddeaefc6db" width="440" height="540">
 <img src="https://github.com/user-attachments/assets/3e45518f-9d6e-42a1-af2b-941c5436ed9e" width="440" height="540">
 
-(closeup) [X](https://x.com/attentionmech/status/1907714094817284578)
-(More on this [X thread](https://x.com/attentionmech/status/1907538095899042173))
+
+<br>
+Note: more in diagrams/ folder of this repo
+
+<br>
+<br>
+
+[closeup](https://x.com/attentionmech/status/1907714094817284578)
+
+<br>
+
+[More on this thread](https://x.com/attentionmech/status/1907538095899042173)
+
 
 #### how to run
 
