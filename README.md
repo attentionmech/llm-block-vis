@@ -28,7 +28,7 @@ A simple visualisation style for model architectures (implemented for HF models,
 4. **Assign Unique Colors**  
    Use a colormap to distinguish layer types.
    
-   Example: Attention layers in blue, feed-forward layers in red, embedding layers in green.
+   Example: Attention layers in blue, feed-forward layers in red, embedding layers in green (not hardcoding it right now)
 
 ## Application
 
