@@ -79,12 +79,12 @@ Note: more in diagrams/ folder of this repo
 #### how to run
 
 ```
-uv run https://raw.githubusercontent.com/attentionmech/trunkplot/refs/heads/main/main.py <model_name>
+uv run https://raw.githubusercontent.com/attentionmech/trunk/refs/heads/main/main.py <model_name>
 ```
 
 examples:
 ```
-uv run https://raw.githubusercontent.com/attentionmech/trunkplot/refs/heads/main/main.py gpt2
+uv run https://raw.githubusercontent.com/attentionmech/trunk/refs/heads/main/main.py gpt2
 ```
 
 if you checked out
@@ -95,8 +95,8 @@ uv run main.py gpt2
 ## Citation
 
 ```
-@article{attentionmech2025trunkplot,
-  title={trunkplot: a simple visualisation style for model architectures},
+@article{attentionmech2025trunk,
+  title={trunk: a simple visualisation style for model architectures},
   author={attentionmech},
   year={2025}
 }
