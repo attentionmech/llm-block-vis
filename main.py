@@ -8,7 +8,7 @@
 # ///
 
 # @author: x.com/@attentionmech
-# name: trunkplot
+# name: trunk
 
 import numpy as np
 import matplotlib.pyplot as plt
