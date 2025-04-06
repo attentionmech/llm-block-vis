@@ -1,4 +1,4 @@
-# trunkplot
+# trunk
 
 A simple visualisation style for model architectures (implemented for HF models, tested for LLMs{text,audio,multimodal}).
 
