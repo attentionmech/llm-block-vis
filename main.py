@@ -15,6 +15,7 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d.art3d import Poly3DCollection
 from transformers import AutoModel, AutoModelForCausalLM
 import re
+import torch
 import matplotlib.cm as cm
 import matplotlib.colors as mcolors
 import argparse
@@ -76,6 +77,8 @@ def main():
     parser.add_argument("--azim", type=float, default=45, help="Azimuth angle (rotate left/right)")
     args = parser.parse_args()
 
+    torch.set_default_device("meta")
+    
     cube_list = generate_architecture(args.model)
 
     fig = plt.figure(figsize=(6, 10))
