@@ -2,8 +2,8 @@
 # dependencies = [
 #   "numpy",
 #   "matplotlib",
-#   "transformers",
-#   "torch==2.5.0",
+#    "torch==2.5.0",
+#    "transformers==4.51.1",
 # ]
 # ///
 
