@@ -3,7 +3,7 @@
 #   "numpy",
 #   "matplotlib",
 #   "transformers",
-#   "torch==2.5.1",
+#   "torch==2.5.0",
 # ]
 # ///
 
