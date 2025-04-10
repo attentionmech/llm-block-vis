@@ -2,8 +2,8 @@
 # dependencies = [
 #   "numpy",
 #   "matplotlib",
-#    "torch==2.5.0",
-#    "transformers==4.51.1",
+#    "torch",
+#    "transformers",
 # ]
 # ///
 
@@ -76,8 +76,6 @@ def main():
     parser.add_argument("--elev", type=float, default=30, help="Elevation angle (tilt up/down)")
     parser.add_argument("--azim", type=float, default=45, help="Azimuth angle (rotate left/right)")
     args = parser.parse_args()
-
-    torch.set_default_device("meta")
     
     cube_list = generate_architecture(args.model)
 
